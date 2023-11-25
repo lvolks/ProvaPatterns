@@ -13,4 +13,4 @@
 <br>
 <p>- Em geral, o projeto foi feito sempre pensando no <b>Princípio de Responsabilidade Única</b>, garantindo que cada classe tenha sua <b>própria</b> e <b>única</b> responsabilidade.</p>
 <br>
-<img src="/src/diagramaClasses">
+<img src="/src/diagramaClasses.png">
